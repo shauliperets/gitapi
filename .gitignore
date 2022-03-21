@@ -1,0 +1,11 @@
+
+
+/Backend/bin
+/Backend/obj
+/Backend/Properties
+/Backend/Views
+/Backend/wwwroot
+
+/Frontend/node_modules
+
+
